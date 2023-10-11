@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Entewawek\\API\\API.csproj": {}
+    "D:\\Entewawek\\Entewawek\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Entewawek\\API\\API.csproj": {
+    "D:\\Entewawek\\Entewawek\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Entewawek\\API\\API.csproj",
+        "projectUniqueName": "D:\\Entewawek\\Entewawek\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Entewawek\\API\\API.csproj",
+        "projectPath": "D:\\Entewawek\\Entewawek\\API\\API.csproj",
         "packagesPath": "C:\\Users\\frehiywotn\\.nuget\\packages\\",
-        "outputPath": "D:\\Entewawek\\API\\obj\\",
+        "outputPath": "D:\\Entewawek\\Entewawek\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frehiywotn\\AppData\\Roaming\\NuGet\\NuGet.Config"

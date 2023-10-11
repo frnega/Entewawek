@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RCX15lnpzt44NQxPEUgChuYwrvrQUaIXor1dMpy4pAL8a3440ELeMFEDLGTbAM/7HhCCllsnxE8xuDzST3JycA==",
+  "dgSpecHash": "PaF80TJEfJjyLeTefxS7Mf/IYI5nnpJUHs0GihragTFuHaI/ALiEjas0AKPs6jQFMUUj6N7wINrXxp78Xk5qvg==",
   "success": false,
-  "projectFilePath": "D:\\Entewawek\\API\\API.csproj",
+  "projectFilePath": "D:\\Entewawek\\Entewawek\\API\\API.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
